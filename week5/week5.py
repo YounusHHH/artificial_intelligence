@@ -1,5 +1,4 @@
-#Furkan Cemal Çalışkan
-#1810206046
+
 
 import numpy as np
 from random import randint
